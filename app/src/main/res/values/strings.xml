@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">scientific calculator</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="modulus">%</string>
+    <string name="pow">^</string>
+    <string name="result">RESULT!!</string>
+    <string name="text2">ENTER NUMBER2</string>
+    <string name="text1">ENTER  NUMBER1</string>
+    <string name="text3">CONVERT</string>
+    <string name="text4">CONVERSION</string>
+
+
+</resources>
